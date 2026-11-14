@@ -1,0 +1,4 @@
+Gene symbol: CSRP3
+NCBI Gene ID: 8048
+Official name: cysteine and glycine rich protein 3
+Chromosome: 11
